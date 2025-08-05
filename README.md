@@ -5,9 +5,9 @@
 I’m passionate about building meaningful tech — from AI-powered apps to smart automations. I enjoy blending finance, data, and code to create solutions that are clean, useful, and scalable.
 
 - 🔭 Currently working on: **StockLens** – An AI-powered stock sentiment analyzer to help retail investors  
-- 🧠 Learning: `DevOps`, `Cloud Computing`, and `n8n automation`  
+- 🧠 Learning: `DevOps`, `WebFlow`, and `n8n automation`  
 - 🧳 Explorer by heart: I love discovering new places and perspectives  
-- ⚽ Fun fact: I'm a footballer, gym goer, and lifelong learner  
+- ⚽ Fun fact: I'm an ardent reader, fitness enthusiast, and lifelong learner  
 
 ---
 
@@ -49,6 +49,6 @@ I’m passionate about building meaningful tech — from AI-powered apps to smar
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://yourportfolio.com) *(Replace with your URL)*  
-- 📬 Email: karthik@example.com *(Replace with your email)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karthik-rs-2004-/)  
+- 🌐 [Portfolio](https://kr-portfolio-six.vercel.app/)  
+- 📬 Email: karthikrajesh9010@gmail.com 
