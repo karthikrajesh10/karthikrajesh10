@@ -44,6 +44,7 @@ I’m passionate about building meaningful tech — from AI-powered apps to smar
 
 ![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikrajesh10&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karthikrajesh10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrajesh10&layout=compact&theme=radical)
 
 ---
 
