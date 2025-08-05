@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Karthik Rajesh
+# 👋 Hey there! I'm Karthik R S
 
 💻 Full-Stack Developer | 📊 Fintech & Startup Enthusiast | ⚙️ Automation & AI Workflow Builder
 
